@@ -106,7 +106,7 @@ body{
     justify-content: space-between;      
 }
 #footer .footer-content .footer-menu {
-    margin: 0 60px;
+    margin: 0 20px;
     list-style: none;   
 }
 
@@ -150,10 +150,12 @@ body{
     color: #919496;
     font-size: 0.75rem;
     padding-top: 50px;
+    
 }
 .footer-info .footer-info-items{
     display: flex;
     list-style: none;
+    
 }
 .footer-info .footer-info-items .footer-info-items{
     margin: 0 10px;
